@@ -19,9 +19,13 @@ src - Contains the source code written in Java. The code is responsible for the 
 **Game Features**
 
 Pacman Control: The user can control Pacman's movements using the arrow keys.
+
 Ghosts: Ghosts move around the map according to specific algorithms, trying to catch Pacman.
+
 Point Collection: Pacman collects points by moving around the map.
+
 Multiple Maps: Ability to play on different maps defined in the TXT files located in the maps folder.
+
 Collisions and Game Logic: Implementation of collisions between characters and management of the game state (win, lose, points).
 
 **How to Run**
