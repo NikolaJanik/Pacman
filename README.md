@@ -32,7 +32,7 @@ Collisions and Game Logic: Implementation of collisions between characters and m
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your_repository/pacman-java.git
+git clone https://github.com/NikolaJanik/Pacman.git
 
 Open the project in your preferred Integrated Development Environment (IDE), such as IntelliJ IDEA or Eclipse.
 Ensure you have Java (Java Development Kit) installed.
