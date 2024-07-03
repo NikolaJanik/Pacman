@@ -12,7 +12,7 @@ import java.util.Random;
 The class extends the Game Components class. The class loads ghost images,
 allows objects of this class to move and create Improvements.
  */
-public class Ghost extends GameComponents{
+public class Ghost extends GameComponent{
 
     GameViewPanel gameViewPanel;
     BufferedImage red, green, blue, yellow;
