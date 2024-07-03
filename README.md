@@ -10,7 +10,9 @@ This project contains the complete code for the classic Pacman game, entirely wr
 The project is divided into three main folders:
 
 image - Contains PNG files used as game element images (such as Pacman, ghosts, points, walls, etc.).
+
 maps - Contains TXT files that define the data for creating maps in the game. Each text file represents a different map that can be played.
+
 src - Contains the source code written in Java. The code is responsible for the game logic, user interactions, graphics display, and game state management.
 
 
