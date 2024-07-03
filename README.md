@@ -43,9 +43,6 @@ Compile and run the project.
 Java Development Kit (JDK) version 8 or newer.
 Any development environment supporting Java.
 
-
-
-
 **Author**
 
 **Nikola Janik**
