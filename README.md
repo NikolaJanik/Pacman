@@ -1,10 +1,12 @@
-# Pacman
-Project Description: Pacman Game in Java
+# Pacman Game in Java
+
 
 **Description**
+
 This project contains the complete code for the classic Pacman game, entirely written in Java using the Swing library. The objective of the game is to collect all the points on the map while avoiding contact with the ghosts.
 
 **Project Structure**
+
 The project is divided into three main folders:
 
 image - Contains PNG files used as game element images (such as Pacman, ghosts, points, walls, etc.).
@@ -13,6 +15,7 @@ src - Contains the source code written in Java. The code is responsible for the 
 
 
 **Game Features**
+
 Pacman Control: The user can control Pacman's movements using the arrow keys.
 Ghosts: Ghosts move around the map according to specific algorithms, trying to catch Pacman.
 Point Collection: Pacman collects points by moving around the map.
@@ -20,6 +23,7 @@ Multiple Maps: Ability to play on different maps defined in the TXT files locate
 Collisions and Game Logic: Implementation of collisions between characters and management of the game state (win, lose, points).
 
 **How to Run**
+
 Clone the repository to your local machine:
 
 git clone https://github.com/your_repository/pacman-java.git
