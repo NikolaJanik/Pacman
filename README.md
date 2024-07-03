@@ -33,7 +33,9 @@ git clone https://github.com/your_repository/pacman-java.git
 Open the project in your preferred Integrated Development Environment (IDE), such as IntelliJ IDEA or Eclipse.
 Ensure you have Java (Java Development Kit) installed.
 Compile and run the project.
-System Requirements
+
+**System Requirements**
+
 Java Development Kit (JDK) version 8 or newer.
 Any development environment supporting Java.
 
