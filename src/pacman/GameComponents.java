@@ -4,7 +4,7 @@ package pacman;
 An auxiliary class whose objects will be used
 to represent moving components in the game.
  */
-public class GameComponents {
+public class GameComponent {
 
     public int col, row;
     public int speed;
