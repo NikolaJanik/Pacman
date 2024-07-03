@@ -40,7 +40,9 @@ Java Development Kit (JDK) version 8 or newer.
 Any development environment supporting Java.
 
 
-Author
-Nikola Janik
+
+
+****Author
+Nikola Janik****
 
 If you have any questions or comments about the project, please open a new issue in the repository.
